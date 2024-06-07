@@ -13,16 +13,16 @@ Features
   Data Description
 The dataset used in this project includes the following columns:
 
-ID: Unique identifier for each individual.
-Marital Status: M for Married, S for Single.
-Gender: M for Male, F for Female.
-Income: Annual income of the individual.
-Children: Number of children.
-Education: Highest level of education achieved.
-Occupation: Type of occupation.
-Home Owner: Home ownership status.
-Cars: Number of cars owned.
-Commute Distance: Distance to commute.
-Region: Region of residence.
-Age: Age of the individual.
-Purchased Bike: Indicates if the individual purchased a bike (Yes or No).
+*ID: Unique identifier for each individual. 
+*Marital Status: M for Married, S for Single.
+*Gender: M for Male, F for Female.
+*Income: Annual income of the individual.
+*Children: Number of children.
+*Education: Highest level of education achieved.
+*Occupation: Type of occupation.
+*Home Owner: Home ownership status.
+*Cars: Number of cars owned.
+*Commute Distance: Distance to commute.
+*Region: Region of residence.
+*Age: Age of the individual.
+*Purchased Bike: Indicates if the individual purchased a bike (Yes or No).
